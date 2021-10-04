@@ -5,8 +5,8 @@
 <details>
 <summary><strong>Ceux sur quoi j'apprends/travaille ces jours ci :</strong></summary>
 - React.js <br/>
-- PHP <br/>
+- React Native <br/>
+- Node.js <br/>
 - Algorithme en Javascript <br/>
-- SEO <br/>
 </details>
 
